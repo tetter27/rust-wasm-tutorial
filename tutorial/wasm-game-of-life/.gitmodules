@@ -1,0 +1,3 @@
+[submodule "wasm-app"]
+	path = www
+	url = https://github.com/rustwasm/create-wasm-app.git
