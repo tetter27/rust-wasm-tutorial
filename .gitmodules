@@ -1,3 +1,0 @@
-[submodule "rust-wasm-tutorial"]
-	path = 4.tutorial/wasm-game-of-life
-	url = https://github.com/tetter27/rust-wasm-tutorial.git
