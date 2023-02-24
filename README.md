@@ -6,9 +6,12 @@ https://rustwasm.github.io/docs/book/
 
 
 
+# Road Map
 - [x] Hello, World!
 - [x] Rules
-- [ ] Implementing Conway's Game of Life
+- [x] Implementing Life
+- [ ] Testing Life
 
-todo: Rendering to Canvas Directly from Memory
-todo: Bug Fix!
+
+# Preview Image
+![preview of life](preview_of_life.png)
