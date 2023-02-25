@@ -10,7 +10,8 @@ https://rustwasm.github.io/docs/book/
 - [x] Hello, World!
 - [x] Rules
 - [x] Implementing Life
-- [ ] Testing Life
+- [x] Testing Life
+- [ ] Debugging
 
 
 # Preview Image
