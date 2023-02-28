@@ -11,7 +11,8 @@ https://rustwasm.github.io/docs/book/
 - [x] Rules
 - [x] Implementing Life
 - [x] Testing Life
-- [ ] Debugging
+- [x] Debugging
+- [ ] Adding Interactivity
 
 
 # Preview Image
