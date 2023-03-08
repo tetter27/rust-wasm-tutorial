@@ -17,8 +17,6 @@ https://rustwasm.github.io/docs/book/
 - [ ] 4.9. Shrinking .wasm Size
 - [ ] 4.10. Publishing to npm
 
-now 4.8
-
 
 # Preview Image
 ![preview of life](src/wgol.gif)
