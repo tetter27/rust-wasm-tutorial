@@ -21,4 +21,4 @@ now 4.8
 
 
 # Preview Image
-![preview of life](src/wgol.png)
+![preview of life](src/wgol.gif)
