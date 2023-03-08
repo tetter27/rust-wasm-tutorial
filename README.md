@@ -17,6 +17,7 @@ https://rustwasm.github.io/docs/book/
 - [ ] 4.9. Shrinking .wasm Size
 - [ ] 4.10. Publishing to npm
 
+next: Time Each Universe::tick with console.time and console.timeEnd
 
 # Preview Image
 ![preview of life](src/wgol.gif)
